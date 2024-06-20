@@ -1,0 +1,18 @@
+Aplicar as dependencias do Openapi 3 no intellij,colar no projeto eventos.Temos na pasta eventos outra pasta chamada src,cuja temos nela também a 
+pasta test,que é a área de testes segura,mas temos a pasta main,que é a principal.
+Dentro da main temos a pasta resources e o java,abrindo o java não chamaremos mais oque esta dentro dele de pasta e sim pacote.
+Dentro da API de eventos temos o controller,classes,repository e o JPA,e fora temos o front end e o database
+front end~~ligado com algums instruções do controller que são:
+/buscar(get);
+?buscar?id(get);
+/adicionar(post);
+/remover(delet).
+O controller se conecta com o repository ,e o classes conecta o repository e o controller a eles mesmos.
+o repository de certa forma transmite isso ao JPA e o JPA liga isso ao database e o database "joga" tudo para po front end denovo.
+Agora,dentro da pasta java e dentro no nosso pacote do projeto eventos,criamos outro pacote para as classes e dentro desse pacote iremos botar as classes como tipo,endereço
+Mas para criar essas classes devemos digitar alguns itens nas linhas de código como:exemplos:
+@Entity(name="endereco")
+ e em outros campos:
+as informações da classe por exemplo:
+nome,cep,bairro cidade e etc...
+
