@@ -16,3 +16,14 @@ Mas para criar essas classes devemos digitar alguns itens nas linhas de código 
 as informações da classe por exemplo:
 nome,cep,bairro cidade e etc...
 
+Aula do dia 04
+Nesta aula usei o code e o scratch
+primeiro coloquei o codigo da sala no code e fiz algumas lições,com minecraft e programação
+depois fui ao scratch e tive que criar 2 projetos,o jogo da adivinhação e uma espécie de space invaders
+Jogo da adivinhação:
+Começei criando meu projeto e escolhendo meu ator que foi uma galinha,e o fundo também que foi uma fazenda
+A minha base foi se clicar na bandeira o jogo começa
+e usei alguns comandos como:
+ela dizer olá~
+perguntar qual é meu nome e falar que o dela é filó etc
+e algumas outras mas os recursos que eu usei foram esses:
